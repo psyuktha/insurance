@@ -1,7 +1,7 @@
 # Machine Learning Regression Project
 
 ## Overview
-This project is focused on building a Machine Learning regression model to predict insurance charges based on a dataset. The dataset used for this project is 'insurance.csv' and is sourced from [Medical Cost dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance) available from Kaggle and [hosted on GitHub](https://github.com/stedy/Machine-Learning-with-R-datasets/blob/master/insurance.csv).
+This project is focused on building a Machine Learning regression model to predict insurance charges based on a dataset. The dataset used for this project is 'insurance.csv' and is sourced from [Medical Cost dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance) available from Kaggle and [on GitHub](https://github.com/stedy/Machine-Learning-with-R-datasets/blob/master/insurance.csv).
 ## Project Description
 In this project, we will perform the following steps:
 
